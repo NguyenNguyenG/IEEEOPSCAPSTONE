@@ -1,21 +1,4 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @NguyenNguyenG
- Sign out
- Watch 1
-  Star 0  Fork 0 jchang12345/CapStoneIEEEOPS
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-Branch: master Find file Copy pathCapStoneIEEEOPS/Capstone_Project_IEEE_OPS.ino
-b3d701a  on Sep 9
-@jchang12345 jchang12345 arduino
-1 contributor
-RawBlameHistory     
-721 lines (565 sloc)  20 KB
+
 //as of now this is just a mere copy of project 5. make sure i can detect walls, using analog read if necessray. i can techincally bring this home for some tests later.
 //serial monitor to double check and use prints for sure.
 
